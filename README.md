@@ -19,11 +19,10 @@ J’ai également effectué 3 stages professionnels, dont actuellement un de 6 m
 ![Visual Studio - 95%](https://img.shields.io/badge/Visual_Studio-95%25-ff3366?style=for-the-badge&logo=visual-studio)
 ![Laravel - 95%](https://img.shields.io/badge/Laravel-95%25-ff3366?style=for-the-badge&logo=laravel)
 ![Symfony - 80%](https://img.shields.io/badge/Symfony-80%25-ffb3d9?style=for-the-badge&logo=symfony)
-![Azure Microsoft - 70%](https://img.shields.io/badge/Azure-70%25-ffd6e0?style=for-the-badge&logo=microsoft-azure)
+![Azure Microsoft - 70%](https://img.shields.io/badge/Azure_Microsoft-70%25-ffd6e0?style=for-the-badge&logo=microsoft-azure)
 ![Figma - 95%](https://img.shields.io/badge/Figma-95%25-ff3366?style=for-the-badge&logo=figma)
 ![TailwindCSS - 95%](https://img.shields.io/badge/TailwindCSS-95%25-ff3366?style=for-the-badge&logo=tailwind-css)
 ![Trello - 85%](https://img.shields.io/badge/Trello-85%25-ff99cc?style=for-the-badge&logo=trello)
-
 ![WordPress - 70%](https://img.shields.io/badge/WordPress-70%25-ffd6e0?style=for-the-badge&logo=wordpress)
 ![MySQL - 95%](https://img.shields.io/badge/MySQL-95%25-ff3366?style=for-the-badge&logo=mysql)
 ![Git - 90%](https://img.shields.io/badge/Git-90%25-ff6699?style=for-the-badge&logo=git)
