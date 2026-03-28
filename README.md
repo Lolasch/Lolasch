@@ -3,8 +3,9 @@
 Je m’appelle Lola Schmitt et je suis actuellement en 3eme année de BUT Métiers du Multimédia et de l’Internet en parcours Développement Web et Dispositifs Interactifs.  
 J’ai été admise au Mastère Manager en Architecture et Applications Logicielles des Systèmes d’Information au CESI pour la rentrée 2026, avec l’objectif de suivre également le double diplôme spécialisé en Sciences des Données et Intelligence Artificielle.
 
-J’effectue des projets de A à Z : analyse du besoin, cahier des charges, recherche graphique si nécessaire, maquettes graphiques, UX/UI, tests utilisateurs, user flows, user stories, gestion de projet, back-end, front-end, accessibilité, CI/CD, déploiement, tests, documentation et rapports.  
-J’ai déjà réalisé une trentaine de projets, seule ou en équipe, et j’ai été chef de projet à plusieurs reprises.  
+J’effectue des projets de A à Z : analyse du besoin, cahier des charges, recherche graphique si nécessaire, maquettes graphiques, UX/UI, tests utilisateurs, user flows, user stories, gestion de projet, back-end, front-end, accessibilité, CI/CD, déploiement, tests, documentation et rapports. 
+
+J’ai déjà réalisé une trentaine de projets, seule ou en équipe, et j’ai été chef de projet à plusieurs reprises.
 J’ai également effectué 3 stages professionnels, dont actuellement un de 6 mois chez TennisPro, où je développe une application web de gestion de raquettes en tant que chargée de développement web.
 
 ---
@@ -18,10 +19,11 @@ J’ai également effectué 3 stages professionnels, dont actuellement un de 6 m
 ![Visual Studio - 95%](https://img.shields.io/badge/Visual_Studio-95%25-ff3366?style=for-the-badge&logo=visual-studio)
 ![Laravel - 95%](https://img.shields.io/badge/Laravel-95%25-ff3366?style=for-the-badge&logo=laravel)
 ![Symfony - 80%](https://img.shields.io/badge/Symfony-80%25-ffb3d9?style=for-the-badge&logo=symfony)
+![Azure Microsoft - 70%](https://img.shields.io/badge/Azure-70%25-ffd6e0?style=for-the-badge&logo=microsoft-azure)
 ![Figma - 95%](https://img.shields.io/badge/Figma-95%25-ff3366?style=for-the-badge&logo=figma)
 ![TailwindCSS - 95%](https://img.shields.io/badge/TailwindCSS-95%25-ff3366?style=for-the-badge&logo=tailwind-css)
 ![Trello - 85%](https://img.shields.io/badge/Trello-85%25-ff99cc?style=for-the-badge&logo=trello)
-![Azure - 70%](https://img.shields.io/badge/Azure-70%25-ffd6e0?style=for-the-badge&logo=microsoft-azure)
+
 ![WordPress - 70%](https://img.shields.io/badge/WordPress-70%25-ffd6e0?style=for-the-badge&logo=wordpress)
 ![MySQL - 95%](https://img.shields.io/badge/MySQL-95%25-ff3366?style=for-the-badge&logo=mysql)
 ![Git - 90%](https://img.shields.io/badge/Git-90%25-ff6699?style=for-the-badge&logo=git)
